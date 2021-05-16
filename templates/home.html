@@ -1,0 +1,20 @@
+{% include 'layout.html' %}
+{% block content %}
+	<div class="text-center">
+		<form action="{{ url_for('predict')}}" method="POST">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="form-group">
+						<textarea name="password" rows="6" cols="200" placeholder="Enter Your Password Here!"></textarea>
+					</div>
+		
+					<input type="submit" class="btn btn-info btn-lg" value="Predict">
+				</div>
+			</div>
+			
+		</form>
+	</div>
+{% endblock content %}
+	
+	
+
