@@ -1,0 +1,49 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
+    url(/static/images/bg.jpg);
+  background-size: cover;
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  color: #ffffff;
+  overflow: hidden;
+}
+
+textarea {
+  box-sizing: border-box;
+  max-width: 95%;
+  min-height: 75px;
+  background: transparent;
+  color: #fff;
+  border-color: #fff;
+  padding: 5px;
+  font-size: 18px;
+  text-align: center;
+  outline: none;
+  resize: none;
+}
+
+::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #fff;
+  opacity: 0.5; /* Firefox */
+}
+
+p.text-result {
+  font-size: 26px;
+  font-weight: bold;
+}
+
+div.result {
+  justify-content: center;
+  width: 50%;
+  background-color: #000000;
+  opacity: 0.7;
+  margin: auto;
+  padding: 6px;
+  border-radius: 8px;
+}
