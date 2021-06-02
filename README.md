@@ -19,4 +19,7 @@ Password strength prediction using ML. This prediction in three level which are 
 ![result3](https://user-images.githubusercontent.com/74568334/120509999-4d709a00-c3c9-11eb-94a4-57d076ffe96a.png)
 
 ### Result-2
+![result4](https://user-images.githubusercontent.com/74568334/120510551-d2f44a00-c3c9-11eb-8c2f-b77a96420b8c.png)
+
+### Result-3
 ![result5](https://user-images.githubusercontent.com/74568334/120510206-7bee7500-c3c9-11eb-84e7-58f66b4d6bb2.png)
