@@ -8,3 +8,4 @@ Password strength prediction using ML. This prediction in three level which are 
 ### copy of the local port and past on the browser 
 
 # Demo of the App
+![Uploading result1.png…]()
