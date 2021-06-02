@@ -6,6 +6,9 @@ Password strength prediction using ML. This prediction in three level which are 
 ### Create Virtiual Enviornmental with python 3.8
 ### pip install -r requirements.txt
 ### copy of the local port and paste on the browser 
+### Enter your password for strength checking 
+### After click predict
+### If want check one more time click make prediction another
 # For Getting App Please click here!!!!
 # App: https://password-strength-prediction.herokuapp.com/
 # Demo of the App
@@ -23,3 +26,12 @@ Password strength prediction using ML. This prediction in three level which are 
 
 ### Result-3
 ![result5](https://user-images.githubusercontent.com/74568334/120510206-7bee7500-c3c9-11eb-84e7-58f66b4d6bb2.png)
+
+# This project has tried with SVM, Logistic Regression and XGBoosting ML algorithms with x amount of the data 
+
+### Logistic-Regreesion Confiusion Matrix
+![Logistic_Regression_Confiusionmatrx](https://user-images.githubusercontent.com/74568334/120512003-392d9c80-c3cb-11eb-98aa-6bdf872ec8b8.png)
+### SVM - Confiusion Matrix
+
+### XGBoosting - Confiusion Matrix
+![XGBosst_Confusionmatrx](https://user-images.githubusercontent.com/74568334/120512243-73973980-c3cb-11eb-8326-8e9a8931fe45.png)
