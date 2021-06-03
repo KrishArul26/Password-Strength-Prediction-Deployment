@@ -1,5 +1,4 @@
-# Password-Strength-Prediction-Deployment-Using-Artificial-intelligence
-Password strength prediction using ML. This prediction in three level which are low strength, medium strength and strong strenth
+# Password-Strength-Prediction-Using Traditional ML
 
  ### Demo of the app: 
  
@@ -8,31 +7,20 @@ Password strength prediction using ML. This prediction in three level which are 
  ### Please Enter the value & clisk the predict button
  
  <p float="left">
-  <img src="https://user-images.githubusercontent.com/74568334/120509504-db985080-c3c8-11eb-925b-ad17a4e7a932.png" width="300" />
-  <img src="https://user-images.githubusercontent.com/74568334/120509748-1306fd00-c3c9-11eb-9b43-44299a9c3b88.png" width="350" /> 
-  <img src="https://user-images.githubusercontent.com/74568334/120509999-4d709a00-c3c9-11eb-94a4-57d076ffe96a.png" width="300" />
-  <img src="https://user-images.githubusercontent.com/74568334/120510551-d2f44a00-c3c9-11eb-8c2f-b77a96420b8c.png" width="350" /> 
-  
+  <img src="https://user-images.githubusercontent.com/74568334/120509504-db985080-c3c8-11eb-925b-ad17a4e7a932.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/74568334/120509748-1306fd00-c3c9-11eb-9b43-44299a9c3b88.png" width="400" /> 
+  <img src="https://user-images.githubusercontent.com/74568334/120509999-4d709a00-c3c9-11eb-94a4-57d076ffe96a.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/74568334/120510551-d2f44a00-c3c9-11eb-8c2f-b77a96420b8c.png" width="400" /> 
 </p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74568334/120625922-6e38fe00-c462-11eb-96b4-431352a5ed91.png" width="450" />
-</p>
-# Demo of the App
-![result1](https://user-images.githubusercontent.com/74568334/120509504-db985080-c3c8-11eb-925b-ad17a4e7a932.png)
 
-# Where should Enter the Password?
-![result2](https://user-images.githubusercontent.com/74568334/120509748-1306fd00-c3c9-11eb-9b43-44299a9c3b88.png)
+### 📁 Data Collection
 
-# Result of the App
-### Result-1 
-![result3](https://user-images.githubusercontent.com/74568334/120509999-4d709a00-c3c9-11eb-94a4-57d076ffe96a.png)
+* Password strength data was collected on the Kaggle and this dataset contains 80000 amount of observation as well as two featuresn which are password and strength. This strength has three level which are low strength, medium strength and strong strenth
+* This project has tried with SVM, Logistic Regression and XGBoosting ML algorithms wit
+* The dataset used can be downloaded [Here](https://raw.githubusercontent.com/KrishArul26/Password-Strength-Prediction-Deployment/main/Password_strength_data.csv) 
 
-### Result-2
-![result4](https://user-images.githubusercontent.com/74568334/120510551-d2f44a00-c3c9-11eb-8c2f-b77a96420b8c.png)
-
-### Result-3
-![result5](https://user-images.githubusercontent.com/74568334/120510206-7bee7500-c3c9-11eb-84e7-58f66b4d6bb2.png)
-
+### 🔑 Prerequisites
+* All the dependencies and required libraries are included in the file [requirements.txt](https://github.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction/blob/main/requirements.txt)
 ## This project has tried with SVM, Logistic Regression and XGBoosting ML algorithms with 80000 amount of the data 
 
 ### Logistic-Regreesion Confiusion Matrix
