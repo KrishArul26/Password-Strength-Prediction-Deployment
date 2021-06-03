@@ -1,16 +1,22 @@
 # Password-Strength-Prediction-Deployment-Using-Artificial-intelligence
 Password strength prediction using ML. This prediction in three level which are low strength, medium strength and strong strenth
-# Run on the Local Machine
-### Open the Command line
-### Navigate the folder directory
-### Create Virtiual Enviornmental with python 3.8
-### pip install -r requirements.txt
-### copy of the local port and paste on the browser 
-### Enter your password for strength checking 
-### After click predict
-### If want check one more time click make prediction another
-# For Getting App Please click here!!!!
-# App: https://password-strength-prediction.herokuapp.com/
+
+ ### Demo of the app: 
+ 
+ * If wanted to see App Please click [here](https://password-strength-prediction.herokuapp.com/)
+ 
+ ### Please Enter the value & clisk the predict button
+ 
+ <p float="left">
+  <img src="https://user-images.githubusercontent.com/74568334/120509504-db985080-c3c8-11eb-925b-ad17a4e7a932.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/74568334/120509748-1306fd00-c3c9-11eb-9b43-44299a9c3b88.png" width="350" /> 
+  <img src="https://user-images.githubusercontent.com/74568334/120509999-4d709a00-c3c9-11eb-94a4-57d076ffe96a.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/74568334/120510551-d2f44a00-c3c9-11eb-8c2f-b77a96420b8c.png" width="350" /> 
+  
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74568334/120625922-6e38fe00-c462-11eb-96b4-431352a5ed91.png" width="450" />
+</p>
 # Demo of the App
 ![result1](https://user-images.githubusercontent.com/74568334/120509504-db985080-c3c8-11eb-925b-ad17a4e7a932.png)
 
