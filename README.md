@@ -56,7 +56,7 @@
 
 * This project has tried with SVM, Logistic Regression and XGBoosting ML algorithms with 80000 amount of the data and among them SVM has selected as best performance algorithom interm of ROC values.
 
-### Logistic-Regreesion Confiusion Matrix
+### Logistic-Regreesion Confiusion Matrix: [Open In Colab](https://colab.research.google.com/drive/1GYQUTtwBDqSpFGk_lA2C_aMAGYCKBu2u)
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/74568334/120512003-392d9c80-c3cb-11eb-98aa-6bdf872ec8b8.png" width="500" /> 
